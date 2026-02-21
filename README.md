@@ -62,9 +62,3 @@ I aim to keep my projects readable, maintainable, and practical.
 </p>
 
 ---
-
-## Current Focus
-
-- Strengthening backend fundamentals with PHP and Node.js
-- Improving project structure and code consistency
-- Building realistic and practical web applications
