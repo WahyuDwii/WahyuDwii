@@ -57,6 +57,10 @@ I aim to keep my projects readable, maintainable, and practical.
   <img src="https://github-readme-stats-tau-five-56.vercel.app/api/top-langs/?username=WahyuDwii&layout=compact&theme=transparent" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WahyuDwii/WahyuDwii/output/github-snake-dark.svg" />
+</p>
+
 ---
 
 ## Current Focus
