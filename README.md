@@ -53,8 +53,8 @@ I aim to keep my projects readable, maintainable, and practical.
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahyuDwii&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuDwii&layout=compact&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WahyuDwii&show_icons=true&theme=transparent&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuDwii&layout=compact&theme=transparent&cache_seconds=1800" height="170"/>
 </p>
 
 ---
