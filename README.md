@@ -37,19 +37,6 @@ Main technologies I work with:
 
 ---
 
-## Projects
-
-Most of my projects focus on:
-- Web-based applications
-- CRUD systems
-- REST API development
-- Clean and structured application logic
-- Responsive user interfaces
-
-I aim to keep my projects readable, maintainable, and practical.
-
----
-
 ## GitHub Statistics
 
 <p align="center">
